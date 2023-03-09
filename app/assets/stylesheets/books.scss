@@ -1,3 +1,20 @@
 // Place all the styles related to the books controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+table{
+  font-size: 13px;
+  margin: 10px;
+}
+
+th {
+    padding-bottom: 5px;
+    margin: 2px;
+}
+
+.new_book{
+  margin-top: 20px;
+}
+
+.new_book_toukou{
+  margin-top: 20px;
+}
